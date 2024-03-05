@@ -1,0 +1,1 @@
+# Symulator-uk-adu-opisanego-za-pomoc-transmitancji
