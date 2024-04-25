@@ -6,5 +6,5 @@ This project is a System Dynamics Simulation Tool implemented in Python using Py
 * Three types of input signals: Harmonic, Rectangular, and Triangular.
 * System dynamics simulation using numerical integration.
 * Visualization of input and output signals.
-* 
+  
 ![image](https://github.com/TajnyReddy/Symulator-uk-adu-opisanego-za-pomoc-transmitancji/assets/59600478/d30d13d9-ac62-4994-8ffa-b2544800a315)
